@@ -1,3 +1,18 @@
+<p align="center">
+  <a title="license" href="https://github.com/flamrdevs/ixstorage/blob/main/LICENSE">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/core/badge?t=dark&v=MIT">
+      <img alt="github" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
+    </picture>
+  </a>
+  <a title="gzip" href="https://bundlejs.com/?q=ixstorage">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/bundlejs/size?t=dark&n=ixstorage">
+      <img alt="github" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixstorage" hspace="1">
+    </picture>
+  </a>
+</p>
+
 # ixstorage
 
 simple storage
