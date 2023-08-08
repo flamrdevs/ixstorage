@@ -1,6 +1,6 @@
 {
   "name": "ixstorage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple storage",
   "type": "module",
   "main": "./dist/index.cjs",
