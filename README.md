@@ -1,20 +1,20 @@
 <p align="center">
   <a title="license" href="https://github.com/flamrdevs/ixstorage/blob/main/LICENSE">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l?t=dark&n=ixstorage">
-      <img alt="license" src="https://none.deno.dev/npm/l?t=light&n=ixstorage" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/l/ixstorage?t=dark">
+      <img alt="license" src="https://none.deno.dev/npm/l/ixstorage?t=light" hspace="1">
     </picture>
   </a>
   <a title="version" href="https://www.npmjs.com/package/ixstorage">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v?t=dark&n=ixstorage">
-      <img alt="version" src="https://none.deno.dev/npm/v?t=light&n=ixstorage" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/npm/v/ixstorage?t=dark">
+      <img alt="version" src="https://none.deno.dev/npm/v/ixstorage?t=light" hspace="1">
     </picture>
   </a>
   <a title="size" href="https://bundlejs.com/?q=ixstorage">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz?t=dark&n=ixstorage">
-      <img alt="size" src="https://none.deno.dev/bundlejs/mz?t=light&n=ixstorage" hspace="1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://none.deno.dev/bundlejs/mz/ixstorage?t=dark">
+      <img alt="size" src="https://none.deno.dev/bundlejs/mz/ixstorage?t=light" hspace="1">
     </picture>
   </a>
 </p>

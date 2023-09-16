@@ -1,9 +1,32 @@
 type IXStorage<T extends any> = {
+  /**
+   * @description set value
+   *
+   * @param value new value
+   * @returns value
+   */
   set: (value: T) => T;
+  /**
+   * @description get value
+   *
+   * @returns value
+   */
   get: () => T;
+  /**
+   * @description delete value
+   *
+   * @returns void
+   */
   del: () => void;
 };
 
+/**
+ *
+ * @param key storage key
+ * @param initialValue initial value
+ * @param storage storage
+ * @returns storage actions
+ */
 const ixstorage = <T extends any>(key: string, initialValue: T, storage: globalThis.Storage = localStorage): IXStorage<T> => {
   return {
     set: (value: T): T => {
